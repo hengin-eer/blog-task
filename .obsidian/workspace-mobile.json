@@ -13,8 +13,8 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/styles.css",
-                "staged": false
+                "file": ".obsidian/workspace-mobile.json",
+                "staged": true
               }
             }
           }
@@ -142,7 +142,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f5ae40e7b3704247",
+  "active": "47cc147ad2688609",
   "lastOpenFiles": [
     "create-blog-with-gatsby-contentful.md",
     "hackathon_2023-04-29.md"
